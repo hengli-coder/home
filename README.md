@@ -14,7 +14,7 @@
 ## 🛠 技术栈
 
 - **前端**：HTML / CSS / JavaScript / TypeScript / React
-- **后端**：Node.js（持续完善中）
+- **后端**：Node.js (持续完善中)
 - **工程化**：Git / GitHub / CI/CD / 自动化流程
 
 ## 📌 当前重点
